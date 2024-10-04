@@ -56,6 +56,23 @@ i {
     margin-right: 0.5rem;    /* SNS 아이콘 오른쪽 여백 */
 }
 
+strong {
+    font-weight: bold;
+    font-size: 1.1em;
+    color: #333; /* 강조 색상 */
+}
+
+/* 회사명 스타일 */
+.company {
+    color: #666; /* 연한 색상 */
+    font-size: 0.9em;
+}
+
+.project-explanation {
+    color: #666;
+    font-size: 1.0em;
+}
+
 #mainSummary, #mainContent {
     padding: 20px;
     background-color: #f8f9fa;
