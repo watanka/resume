@@ -68,8 +68,14 @@ strong {
     font-size: 0.9em;
 }
 
+strong {
+    font-weight: bold;
+    font-size: 1.1em;
+    color: #333;
+}
+
 .project-explanation {
-    color: #666;
+    color: #beb9b9;
     font-size: 1.0em;
 }
 
